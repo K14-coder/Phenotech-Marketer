@@ -7,6 +7,7 @@ Updated 2026-11-22. Order of the agenda: the founder's. ✅ done · 🟡 waiting
 - ✅ **Live:** https://www.linkedin.com/company/phenotech-atlas/ (created by the founder on 2026-11-22). Every live value
   is in `linkedin/company-page.md`.
 - ✅ Logo, cover (4200 × 700), tagline, About text, founded, 15 specialties, Zurich, "Visit website" button
+- ✅ German version (tagline and description) live 2026-11-22; 🟡 needs a read by a native German speaker
 - ✅ Tagline and About rewritten on 2026-11-22 to match the newest product (role views, chats); AI-R left out until its
   regulatory opinion (see `company-page.md`)
 - ✅ Four launch posts (drafts) and a fresh screenshot of the live site: `linkedin/launch-posts.md`

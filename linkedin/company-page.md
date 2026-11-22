@@ -67,6 +67,43 @@ Left out on purpose:
   promote it until then.
 - **"Winner"** of Hack-Nation: the last line says "Started at" until there is a public link from the organiser.
 
+### German version (Deutsch, live 2026-11-22)
+
+LinkedIn's language form holds only the name, tagline and description; industry, specialties and location stay in
+English. Swiss conventions: "ss" for "ß", thousands with an apostrophe. Translated by Claude and shortened to fit
+2,000 characters; **not yet read by a native German speaker** (check especially "unbesetzte Felder" for white space and
+"offene Studien" for recruiting studies). The same claims rules apply in every language.
+
+| Field | Value |
+|---|---|
+| Name | Phenotech |
+| Tagline (115/120) | Belegter Atlas von 11'456 seltenen Krankheiten: verbindet Familien, Forschende und Pharma über gemeinsame Biologie. |
+
+Description (1,986/2,000):
+
+```
+Phenotech ist ein belegter Forschungsatlas seltener Krankheiten und ein Treffpunkt für alle, die daran arbeiten.
+
+Rund 95 % der seltenen Krankheiten haben keine zugelassene Behandlung. Die meisten gehen auf ein einzelnes Gen zurück, und Tausende am Menschen getestete Medikamente werden für sie nicht untersucht. Stören zwei Krankheiten dieselbe Biologie, kann Forschung an der einen der anderen nützen.
+
+Phenotech führt über 30 öffentliche Quellen zu einer Karte zusammen: 11'456 seltene Krankheiten mit Genen, Symptomen, Mechanismen, Varianten, Proteinstrukturen, Studien, Publikationen, Patientenorganisationen und Registern. Jede Verknüpfung nennt ihre Quelle, jedes Zitat wird Wort für Wort geprüft. Von KI extrahierte Inhalte sind gekennzeichnet.
+
+Auf denselben Daten ordnet eine Ranking-Engine bestehende Medikamente 8'723 seltenen Krankheiten zu und begründet jede Platzierung. Das sind Forschungshypothesen, keine Aussage über Wirksamkeit. Fachleute haben sie noch nicht begutachtet.
+
+Wir legen jeden Test vorab fest und veröffentlichen auch die gescheiterten.
+
+Ein Atlas, eine Ansicht pro Rolle:
+• Familien: jede Krankheitsseite kostenlos und in einfacher Sprache, mit Patientenorganisationen, offenen Studien und Fragen fürs Arztgespräch.
+• Patientenorganisationen: verwandte Krankheiten, Forschungsstand im Vergleich, Material für Kontakte.
+• Ärzteschaft und Forschung: Mechanismen, Evidenz, bisherige Versuche und wer sonst daran arbeitet.
+• Studienteams, Arzneimittelentwickler und Investoren: Studien, Orphan-Designationen, unbesetzte Felder und Repurposing-Ansätze bei genetisch definierten Krankheiten.
+Dazu Krankheits- und Community-Chats für Mitglieder.
+
+Phenotech bietet allgemeine Informationen für Forschung und Bildung. Keine medizinische Beratung; nicht zur Diagnose oder Behandlung von Personen bestimmt. Behandlungsfragen gehören in die ärztliche oder genetische Beratung.
+
+Entwickelt in der Schweiz, entstanden bei der Hack-Nation Challenge 05 (Oktober 2026).
+```
+
 ### Other fields
 
 | Field | Value |
