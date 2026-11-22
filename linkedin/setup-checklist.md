@@ -1,5 +1,7 @@
 # LinkedIn company page: setup checklist for the founder
 
+Status: steps 1–7 done on 2026-11-22; the page is live at https://www.linkedin.com/company/phenotech-atlas/.
+
 About 20 minutes. Claude cannot do these steps: LinkedIn pages are created from a person's own LinkedIn account, and
 LinkedIn gives that account super-admin rights over the page.
 
@@ -7,24 +9,24 @@ LinkedIn gives that account super-admin rights over the page.
 
 - [ ] Your personal LinkedIn profile shows your real name and lists a current position. LinkedIn requires both to create
       a page, and visitors check who runs the page.
-- [ ] Decide the two open fields in `company-page.md`: organisation type (Privately held or Self-employed) and the
+- [x] Decide the two open fields in `company-page.md`: organisation type (Privately held or Self-employed) and the
       location line.
-- [ ] Pick a tagline (option 1 is recommended).
+- [x] Pick a tagline (option 1 is recommended).
 
 ## Create
 
-1. [ ] Open https://www.linkedin.com/company/setup/new/ and choose **Company**.
-2. [ ] Fill in name, public URL, website, industry, size, type, logo and tagline from `company-page.md`.
+1. [x] Open https://www.linkedin.com/company/setup/new/ and choose **Company**.
+2. [x] Fill in name, public URL, website, industry, size, type, logo and tagline from `company-page.md`.
        Upload `linkedin/assets/phenotech-logo-400.png`.
-3. [ ] Tick the box that says you are an authorised representative, then click **Create page**.
+3. [x] Tick the box that says you are an authorised representative, then click **Create page**.
 
 ## Fill in (Edit page)
 
-4. [ ] **Header:** upload the cover, `linkedin/assets/linkedin-cover-4200x700.png`. Check it on your phone as well:
+4. [x] **Header:** upload the cover, `linkedin/assets/linkedin-cover-4200x700.png`. Check it on your phone as well:
        the app crops the edges.
-5. [ ] **Overview / About:** paste the text block from `company-page.md`.
-6. [ ] **Details:** location, founded 2026, specialties.
-7. [ ] **Buttons:** set the custom button to "Visit website".
+5. [x] **Overview / About:** paste the text block from `company-page.md`.
+6. [x] **Details:** location, founded 2026, specialties.
+7. [x] **Buttons:** set the custom button to "Visit website".
 8. [ ] **Community hashtags:** add the three hashtags.
 
 ## Before telling anyone about it
@@ -36,7 +38,7 @@ LinkedIn gives that account super-admin rights over the page.
 11. [ ] On your own profile, set the current position to Phenotech so it links to the page (Experience → add position →
         pick the page from the drop-down list).
 12. [ ] Add co-admins under Settings → Manage admins, if you want any. Admins are people you choose; Claude never is one.
-13. [ ] Paste the page URL back into this session so the next steps (`PLAN.md`) can use it.
+13. [x] Paste the page URL back into this session so the next steps (`PLAN.md`) can use it.
 
 ## Later, optional
 

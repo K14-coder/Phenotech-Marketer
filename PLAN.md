@@ -2,15 +2,19 @@
 
 Updated 2026-11-22. Order of the agenda: the founder's. ✅ done · 🟡 waiting on the founder · ⬜ not started.
 
-## 1. LinkedIn company page 🟡
+## 1. LinkedIn company page ✅ (live 2026-11-22)
 
-- ✅ Page fields, About text and tagline options: `linkedin/company-page.md`
-- ✅ Logo (400 px) and cover (4200 × 700) from the product's own mark: `linkedin/assets/`
-- ✅ Setup checklist: `linkedin/setup-checklist.md`
+- ✅ **Live:** https://www.linkedin.com/company/phenotech-atlas/ (created by the founder on 2026-11-22). Every live value
+  is in `linkedin/company-page.md`.
+- ✅ Logo, cover (4200 × 700), tagline, About text, founded, 15 specialties, Zurich, "Visit website" button
+- ✅ Tagline and About rewritten on 2026-11-22 to match the newest product (role views, chats); AI-R left out until its
+  regulatory opinion (see `company-page.md`)
 - ✅ Four launch posts (drafts) and a fresh screenshot of the live site: `linkedin/launch-posts.md`
-- 🟡 Founder: decide organisation type and location; create the page; send the page URL back
-- 🟡 Founder: approve post 1, publish it, reshare it from your own profile
+- 🟡 Founder: check the cover on a phone (the app crops the edges)
+- 🟡 Founder: approve post 1 (re-check it against the newest product first), publish it, reshare it from your own profile
+- 🟡 Founder: set your current position to Phenotech on your own profile, so it links to the page
 - 🟡 Founder: a public link that confirms the Hack-Nation win, if we want to say "won"
+- ⬜ Hashtags to follow: not set (no hashtags tab in the Edit page form on 2026-11-22)
 
 ## Backlog (proposed; reorder as you like)
 
